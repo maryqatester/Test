@@ -1,4 +1,6 @@
+
 Test conflict
+untested area
 commit test
 456
 789 Test
